@@ -3,7 +3,7 @@ This app provides informartion related to couintry name,falg, region,code,latitu
 
 **File details :**
 => Added 3 files index.html, script.js and styles.css
-=> All the UT elements created through DOM (script.js)
+=> All the UI elements created through DOM (script.js)
 => Included Zen Test Suite script in index.html
 => All the test cases passed (10/10)
 

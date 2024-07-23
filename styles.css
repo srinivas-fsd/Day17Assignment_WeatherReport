@@ -1,0 +1,14 @@
+.btn-primary-outline {
+    background-color: transparent;
+    border-color: white;
+    color: white;
+  }
+  body
+  {
+    text-align: center;
+    color:white;
+    font-weight: 700%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2%;
+    
+  }

@@ -1,5 +1,5 @@
 **App overview :**
-This app provides informartion related to couintry name,falg, region,code,latitude-longitude and current weather for REST countries
+This app provides informartion related to country name,falg, region,code,latitude-longitude and current weather for REST countries
 
 **File details :**
 => Added 3 files index.html, script.js and styles.css
